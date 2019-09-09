@@ -15,4 +15,5 @@
 * 创建自己的web项目上传到github
 * 运行示例项目
 * 自学servlet的生命周期
-  
+![avatar](https://github.com/ngu-qa/teaching/blob/master/img/servlet.jpg)  
+
